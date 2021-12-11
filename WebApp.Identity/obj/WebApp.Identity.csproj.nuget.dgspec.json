@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Antonio\\source\\repos\\SOL.Identity\\WebApp.Identity\\WebApp.Identity.csproj": {}
+    "C:\\Users\\antonio\\Desktop\\Projetos\\C-Sharp\\WebAppIdentity\\WebApp.Identity\\WebApp.Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Antonio\\source\\repos\\SOL.Identity\\WebApp.Identity\\WebApp.Identity.csproj": {
+    "C:\\Users\\antonio\\Desktop\\Projetos\\C-Sharp\\WebAppIdentity\\WebApp.Identity\\WebApp.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Antonio\\source\\repos\\SOL.Identity\\WebApp.Identity\\WebApp.Identity.csproj",
+        "projectUniqueName": "C:\\Users\\antonio\\Desktop\\Projetos\\C-Sharp\\WebAppIdentity\\WebApp.Identity\\WebApp.Identity.csproj",
         "projectName": "WebApp.Identity",
-        "projectPath": "C:\\Users\\Antonio\\source\\repos\\SOL.Identity\\WebApp.Identity\\WebApp.Identity.csproj",
-        "packagesPath": "C:\\Users\\Antonio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Antonio\\source\\repos\\SOL.Identity\\WebApp.Identity\\obj\\",
+        "projectPath": "C:\\Users\\antonio\\Desktop\\Projetos\\C-Sharp\\WebAppIdentity\\WebApp.Identity\\WebApp.Identity.csproj",
+        "packagesPath": "C:\\Users\\antonio\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\antonio\\Desktop\\Projetos\\C-Sharp\\WebAppIdentity\\WebApp.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\antonio\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,7 +48,19 @@
               "target": "Package",
               "version": "[5.0.12, )"
             },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
             "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
               "version": "[5.0.12, )"
             },
